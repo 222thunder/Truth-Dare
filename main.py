@@ -314,10 +314,10 @@ while True:
         exit()
 
     elif a==1:
-        b = random.randrange(129)
+        b = random.randrange(64)
         print(truths[b])
 
     elif a==2:
-        b = random.randrange(129)
+        b = random.randrange(64)
         print(dares[b])
 
